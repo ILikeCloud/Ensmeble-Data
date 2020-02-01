@@ -1,5 +1,5 @@
 --Sample on how to loop through records in SQL
-
+--For bracn 1
 
 -- select * from jobdetails 
 -- where joboriginaldate > '12/01/2019'
