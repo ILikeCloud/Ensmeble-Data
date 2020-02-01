@@ -1,3 +1,4 @@
+--Sample on hoew to loop 
 -- select * from jobdetails 
 -- where joboriginaldate > '12/01/2019'
 
