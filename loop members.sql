@@ -1,4 +1,6 @@
---Sample on hoew to loop 
+--Sample on how to loop through records in SQL
+
+
 -- select * from jobdetails 
 -- where joboriginaldate > '12/01/2019'
 
